@@ -1,6 +1,6 @@
 # Facial Recognition & Classification Pipeline
 
-An end-to-end computer vision project that processes raw images, extracts facial features using Wavelet Transforms, and classifies identities using classical machine learning models. Originally built as a university project (CSE422), this repository contains the refurbished and optimized pipeline.
+An end-to-end computer vision project that processes raw images, extracts facial features using Wavelet Transforms, and classifies identities using classical machine learning models. Originally built as a university project (Bachelor's course CSE422-Artificial Intelligence) back in 2023, this repository contains the refurbished and optimized pipeline.
 
 ---
 
@@ -75,4 +75,4 @@ Based on initial testing with the dataset:
 - Random Forest: ~83% Testing Accuracy
 - SVM (RBF): ~73-76% Testing Accuracy
 - Naive Bayes / MLP: Requires further tuning for this specific feature space.
-
+---
