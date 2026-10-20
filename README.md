@@ -24,7 +24,7 @@ An end-to-end computer vision project that processes raw images, extracts facial
 
 ## Dataset Structure
 
-The pipeline expects a `Dataset` folder containing subfolders for each individual (e.g., celebrities or students). The preprocessing script automatically creates a `Cropped` directory with the isolated face data.
+The pipeline expects a `Dataset` folder containing subfolders for each individual (e.g., Bollywood celebrities). The preprocessing script automatically creates a `Cropped` directory with the isolated face data. You can download the dataset from [here](https://drive.google.com/drive/folders/1PYzD5fPtHDMnf7_JPYLAlImT5V0lSN39?usp=sharing).
 
 ```text
 📁 Dataset/
