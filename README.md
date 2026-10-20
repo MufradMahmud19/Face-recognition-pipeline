@@ -51,7 +51,7 @@ cd face-recognition-pipeline
 2. Install the required dependencies:
 
 ```bash
-pip install numpy opencv-python matplotlib PyWavelets scikit-learn
+pip install -r requirements.txt
 ```
 
 3. Ensure the dataset paths in main.py match your local or cloud environment.
