@@ -76,5 +76,5 @@ Based on initial testing with the dataset, the testing accuracies of the models 
 - Random Forest: ~39%
 - SVM (RBF): ~48%
 - Naive Bayes: ~25%
-- Neural network (activation function ReLu): ~7%
+- Neural network (activation function ReLu): ~5%
 ---
