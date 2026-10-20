@@ -1,4 +1,4 @@
-# Facial Recognition & Classification Pipeline
+# Facial recognition & classification pipeline
 
 An end-to-end computer vision project that processes raw images, extracts facial features using Wavelet Transforms, and classifies identities using classical machine learning models. Originally built as a university project (Bachelor's course CSE422-Artificial Intelligence) back in 2023, this repository contains the refurbished and optimized pipeline.
 
