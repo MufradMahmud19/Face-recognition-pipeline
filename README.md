@@ -44,7 +44,7 @@ The pipeline expects a `Dataset` folder containing subfolders for each individua
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/yourusername/face-recognition-pipeline.git](https://github.com/yourusername/face-recognition-pipeline.git)
+git clone git clone https://github.com/MufradMahmud19/face-recognition-pipeline.git
 cd face-recognition-pipeline
 ```
 
