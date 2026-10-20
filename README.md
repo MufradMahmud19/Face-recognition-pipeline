@@ -70,9 +70,10 @@ pip install numpy opencv-python matplotlib PyWavelets scikit-learn
 
 ## Model Performance
 
-Based on initial testing with the dataset:
-- SVM (Linear): ~89-92% Testing Accuracy (Top Performer)
-- Random Forest: ~83% Testing Accuracy
-- SVM (RBF): ~73-76% Testing Accuracy
-- Naive Bayes / MLP: Requires further tuning for this specific feature space.
+Based on initial testing with the dataset, the testing accuracies of the models are given below:
+- SVM (Linear): ~55% (Top Performer)
+- SVC (Sigmoid): ~38%
+- Random Forest: ~33%
+- SVM (RBF): ~37%
+- Naive Bayes / MLP: ~19%
 ---
