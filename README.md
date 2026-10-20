@@ -71,9 +71,10 @@ pip install -r requirements.txt
 ## Model Performance
 
 Based on initial testing with the dataset, the testing accuracies of the models are given below:
-- SVM (Linear): ~55% (Top Performer)
-- SVC (Sigmoid): ~38%
-- Random Forest: ~33%
-- SVM (RBF): ~37%
-- Naive Bayes / MLP: ~19%
+- SVM (Linear): ~61% (Top Performer)
+- SVC (Sigmoid): ~45%
+- Random Forest: ~39%
+- SVM (RBF): ~48%
+- Naive Bayes: ~25%
+- Neural network (activation function ReLu): ~7%
 ---
