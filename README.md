@@ -31,17 +31,18 @@ The pipeline expects a `Dataset` folder containing subfolders for each individua
 └── 📁 Cropped/ (Generated automatically)
     ├── 📁 Person_A/
     └── 📁 Person_B/
+```
 
 ## Setup & Installation
 
 1. Clone the repository:
 
-bash '''git clone [https://github.com/yourusername/face-recognition-pipeline.git](https://github.com/yourusername/face-recognition-pipeline.git)
-cd face-recognition-pipeline'''
+```bash git clone [https://github.com/yourusername/face-recognition-pipeline.git](https://github.com/yourusername/face-recognition-pipeline.git)
+cd face-recognition-pipeline```
 
 2. Install the required dependencies:
 
-bash '''pip install numpy opencv-python matplotlib PyWavelets scikit-learn'''
+```bash pip install numpy opencv-python matplotlib PyWavelets scikit-learn```
 
 3. Ensure the dataset paths in main.py match your local or cloud environment.
 
