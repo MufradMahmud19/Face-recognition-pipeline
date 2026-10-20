@@ -55,7 +55,7 @@ pip install -r requirements.txt
 ```
 
 3. Ensure the dataset paths in main.py match your local or cloud environment.
-
+4. Run the main.ipynb code file blocks.
 ---
 
 ## Usage
